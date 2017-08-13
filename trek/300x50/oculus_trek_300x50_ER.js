@@ -1045,7 +1045,7 @@ p.nominalBounds = new cjs.Rectangle(-146.9,-152.3,318.5,423.1);
 
 
 // stage content:
-(lib.oculus_trek_300x50_ER2 = function(mode,startPosition,loop) {
+(lib.oculus_trek_300x50_ER = function(mode,startPosition,loop) {
 if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// mask (mask)
