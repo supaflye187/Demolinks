@@ -1007,11 +1007,11 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// 1
 	this.instance = new lib.Bitmap42();
 	this.instance.parent = this;
-	this.instance.setTransform(-129.6,0.5);
+	this.instance.setTransform(-141,-2,1.009,1.009);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-}).prototype = getMCSymbolPrototype(lib.bg, new cjs.Rectangle(-129.6,0.5,1270,250), null);
+}).prototype = getMCSymbolPrototype(lib.bg, new cjs.Rectangle(-141,-2,1281.8,252.3), null);
 
 
 (lib.newPrice = function(mode,startPosition,loop) {
@@ -1178,26 +1178,26 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// MASK (mask)
 	var mask = new cjs.Shape();
 	mask._off = true;
-	var mask_graphics_31 = new cjs.Graphics().p("EAy4AHvIDcAAIAAC2IjcAAg");
-	var mask_graphics_32 = new cjs.Graphics().p("EAxIAGUIFxAAIAAEvIlxAAg");
-	var mask_graphics_33 = new cjs.Graphics().p("EAvYAE4IIGAAIAAGqIoGAAg");
-	var mask_graphics_34 = new cjs.Graphics().p("EAtoADcIKbAAIAAIlIqbAAg");
-	var mask_graphics_35 = new cjs.Graphics().p("EAr4ACAIMwAAIAAKfIswAAg");
-	var mask_graphics_36 = new cjs.Graphics().p("EAqIAAlIPFAAIAAMZIvFAAg");
-	var mask_graphics_37 = new cjs.Graphics().p("EAoYgA2IRaAAIAAOTIxaAAg");
-	var mask_graphics_38 = new cjs.Graphics().p("EAmogCSITvAAIAAQNIzvAAg");
-	var mask_graphics_39 = new cjs.Graphics().p("EAk4gDuIWEAAIAASII2EAAg");
-	var mask_graphics_40 = new cjs.Graphics().p("EAjIgFJIYZAAIAAUCI4ZAAg");
-	var mask_graphics_41 = new cjs.Graphics().p("EAhYgGlIauAAIAAV8I6uAAg");
-	var mask_graphics_42 = new cjs.Graphics().p("AfooBIdDAAIAAX3I9DAAg");
-	var mask_graphics_43 = new cjs.Graphics().p("Ad4pdIfYAAIAAZyI/YAAg");
-	var mask_graphics_44 = new cjs.Graphics().p("AcIq5MAhtAAAIAAbsMghtAAAg");
-	var mask_graphics_45 = new cjs.Graphics().p("AaYsUMAkCAAAIAAdmMgkCAAAg");
-	var mask_graphics_46 = new cjs.Graphics().p("AYotwMAmXAAAIAAfhMgmXAAAg");
-	var mask_graphics_47 = new cjs.Graphics().p("AW4vMMAosAAAMAAAAhbMgosAAAg");
-	var mask_graphics_48 = new cjs.Graphics().p("AVIwoMArBAAAMAAAAjWMgrBAAAg");
-	var mask_graphics_49 = new cjs.Graphics().p("ATYyDMAtWAAAMAAAAlQMgtWAAAg");
-	var mask_graphics_50 = new cjs.Graphics().p("ARozfMAvrAAAMAAAAnKMgvrAAAg");
+	var mask_graphics_31 = new cjs.Graphics().p("EAh2AHMIDcAAIAAC2IjcAAg");
+	var mask_graphics_32 = new cjs.Graphics().p("EAg8AFyIFyAAIAAEwIlyAAg");
+	var mask_graphics_33 = new cjs.Graphics().p("EAgDAEYIIGAAIAAGrIoGAAg");
+	var mask_graphics_34 = new cjs.Graphics().p("AfJC+IKcAAIAAIlIqcAAg");
+	var mask_graphics_35 = new cjs.Graphics().p("AeQBkIMwAAIAAKfIswAAg");
+	var mask_graphics_36 = new cjs.Graphics().p("AdWAKIPGAAIAAMaIvGAAg");
+	var mask_graphics_37 = new cjs.Graphics().p("AcdhPIRaAAIAAOTIxaAAg");
+	var mask_graphics_38 = new cjs.Graphics().p("AbjipITwAAIAAQOIzwAAg");
+	var mask_graphics_39 = new cjs.Graphics().p("AaqkDIWEAAIAASII2EAAg");
+	var mask_graphics_40 = new cjs.Graphics().p("AZwldIYaAAIAAUDI4aAAg");
+	var mask_graphics_41 = new cjs.Graphics().p("AY3m3IauAAIAAV9I6uAAg");
+	var mask_graphics_42 = new cjs.Graphics().p("AX9oRIdEAAIAAX3I9EAAg");
+	var mask_graphics_43 = new cjs.Graphics().p("AXEprIfYAAIAAZyI/YAAg");
+	var mask_graphics_44 = new cjs.Graphics().p("AWKrFMAhuAAAIAAbsMghuAAAg");
+	var mask_graphics_45 = new cjs.Graphics().p("AVRsfMAkCAAAIAAdnMgkCAAAg");
+	var mask_graphics_46 = new cjs.Graphics().p("AUYt5MAmXAAAIAAfhMgmXAAAg");
+	var mask_graphics_47 = new cjs.Graphics().p("ATevTMAosAAAMAAAAhbMgosAAAg");
+	var mask_graphics_48 = new cjs.Graphics().p("ASlwtMArBAAAMAAAAjWMgrBAAAg");
+	var mask_graphics_49 = new cjs.Graphics().p("ARryHMAtWAAAMAAAAlQMgtWAAAg");
+	var mask_graphics_50 = new cjs.Graphics().p("AQyzhMAvrAAAMAAAAnLMgvrAAAg");
 	var mask_graphics_51 = new cjs.Graphics().p("AP80iMAyAAAAMAAAApFMgyAAAAg");
 	var mask_graphics_52 = new cjs.Graphics().p("AP40kMAyFAAAMAAAApJMgyFAAAg");
 	var mask_graphics_53 = new cjs.Graphics().p("AP10mMAyJAAAMAAAApNMgyJAAAg");
@@ -1303,12 +1303,12 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	var mask_graphics_153 = new cjs.Graphics().p("EghfgvrMB0DAAAMAAABfXMh0DAAAg");
 	var mask_graphics_154 = new cjs.Graphics().p("EgjagwvMB2nAAAMAAABhfMh2nAAAg");
 
-	this.timeline.addTween(cjs.Tween.get(mask).to({graphics:null,x:0,y:0}).wait(31).to({graphics:mask_graphics_31,x:347.6,y:67.7}).wait(1).to({graphics:mask_graphics_32,x:351.3,y:70.7}).wait(1).to({graphics:mask_graphics_33,x:355,y:73.8}).wait(1).to({graphics:mask_graphics_34,x:358.7,y:76.9}).wait(1).to({graphics:mask_graphics_35,x:362.4,y:79.9}).wait(1).to({graphics:mask_graphics_36,x:366.1,y:83}).wait(1).to({graphics:mask_graphics_37,x:369.8,y:86.1}).wait(1).to({graphics:mask_graphics_38,x:373.5,y:89.1}).wait(1).to({graphics:mask_graphics_39,x:377.2,y:92.2}).wait(1).to({graphics:mask_graphics_40,x:380.9,y:95.3}).wait(1).to({graphics:mask_graphics_41,x:384.6,y:98.3}).wait(1).to({graphics:mask_graphics_42,x:388.3,y:101.4}).wait(1).to({graphics:mask_graphics_43,x:392,y:104.5}).wait(1).to({graphics:mask_graphics_44,x:395.7,y:107.5}).wait(1).to({graphics:mask_graphics_45,x:399.4,y:110.6}).wait(1).to({graphics:mask_graphics_46,x:403.1,y:113.7}).wait(1).to({graphics:mask_graphics_47,x:406.8,y:116.7}).wait(1).to({graphics:mask_graphics_48,x:410.5,y:119.8}).wait(1).to({graphics:mask_graphics_49,x:414.2,y:122.9}).wait(1).to({graphics:mask_graphics_50,x:417.9,y:125.9}).wait(1).to({graphics:mask_graphics_51,x:422,y:126.5}).wait(1).to({graphics:mask_graphics_52,x:422.1,y:126.5}).wait(1).to({graphics:mask_graphics_53,x:422.2,y:126.5}).wait(1).to({graphics:mask_graphics_54,x:422.4,y:126.5}).wait(1).to({graphics:mask_graphics_55,x:422.5,y:126.5}).wait(1).to({graphics:mask_graphics_56,x:422.6,y:126.5}).wait(1).to({graphics:mask_graphics_57,x:422.7,y:126.5}).wait(1).to({graphics:mask_graphics_58,x:422.9,y:126.5}).wait(1).to({graphics:mask_graphics_59,x:423,y:126.5}).wait(1).to({graphics:mask_graphics_60,x:423.1,y:126.5}).wait(1).to({graphics:mask_graphics_61,x:423.2,y:126.5}).wait(1).to({graphics:mask_graphics_62,x:423.4,y:126.5}).wait(1).to({graphics:mask_graphics_63,x:423.5,y:126.5}).wait(1).to({graphics:mask_graphics_64,x:423.6,y:126.4}).wait(1).to({graphics:mask_graphics_65,x:423.7,y:126.4}).wait(1).to({graphics:mask_graphics_66,x:423.9,y:126.4}).wait(1).to({graphics:mask_graphics_67,x:424,y:126.4}).wait(1).to({graphics:mask_graphics_68,x:424.1,y:126.4}).wait(1).to({graphics:mask_graphics_69,x:424.2,y:126.4}).wait(1).to({graphics:mask_graphics_70,x:424.4,y:126.4}).wait(1).to({graphics:mask_graphics_71,x:424.5,y:126.4}).wait(1).to({graphics:mask_graphics_72,x:424.6,y:126.4}).wait(1).to({graphics:mask_graphics_73,x:424.7,y:126.4}).wait(1).to({graphics:mask_graphics_74,x:424.9,y:126.4}).wait(1).to({graphics:mask_graphics_75,x:425,y:126.4}).wait(1).to({graphics:mask_graphics_76,x:425.1,y:126.4}).wait(1).to({graphics:mask_graphics_77,x:425.2,y:126.4}).wait(1).to({graphics:mask_graphics_78,x:425.4,y:126.4}).wait(1).to({graphics:mask_graphics_79,x:425.5,y:126.4}).wait(1).to({graphics:mask_graphics_80,x:425.6,y:126.4}).wait(1).to({graphics:mask_graphics_81,x:425.7,y:126.4}).wait(1).to({graphics:mask_graphics_82,x:425.8,y:126.4}).wait(1).to({graphics:mask_graphics_83,x:426,y:126.4}).wait(1).to({graphics:mask_graphics_84,x:426.1,y:126.4}).wait(1).to({graphics:mask_graphics_85,x:426.2,y:126.4}).wait(1).to({graphics:mask_graphics_86,x:426.3,y:126.4}).wait(1).to({graphics:mask_graphics_87,x:426.5,y:126.4}).wait(1).to({graphics:mask_graphics_88,x:426.6,y:126.4}).wait(1).to({graphics:mask_graphics_89,x:426.7,y:126.4}).wait(1).to({graphics:mask_graphics_90,x:426.8,y:126.3}).wait(1).to({graphics:mask_graphics_91,x:427,y:126.3}).wait(1).to({graphics:mask_graphics_92,x:427.1,y:126.3}).wait(1).to({graphics:mask_graphics_93,x:427.2,y:126.3}).wait(1).to({graphics:mask_graphics_94,x:427.3,y:126.3}).wait(1).to({graphics:mask_graphics_95,x:427.5,y:126.3}).wait(1).to({graphics:mask_graphics_96,x:427.6,y:126.3}).wait(1).to({graphics:mask_graphics_97,x:427.7,y:126.3}).wait(1).to({graphics:mask_graphics_98,x:427.8,y:126.3}).wait(1).to({graphics:mask_graphics_99,x:428,y:126.3}).wait(1).to({graphics:mask_graphics_100,x:428.1,y:126.3}).wait(1).to({graphics:mask_graphics_101,x:428.2,y:126.3}).wait(1).to({graphics:mask_graphics_102,x:428.3,y:126.3}).wait(1).to({graphics:mask_graphics_103,x:428.5,y:126.3}).wait(1).to({graphics:mask_graphics_104,x:428.6,y:126.3}).wait(1).to({graphics:mask_graphics_105,x:428.7,y:126.3}).wait(1).to({graphics:mask_graphics_106,x:428.8,y:126.3}).wait(1).to({graphics:mask_graphics_107,x:428.9,y:126.3}).wait(1).to({graphics:mask_graphics_108,x:429.1,y:126.3}).wait(1).to({graphics:mask_graphics_109,x:429.2,y:126.3}).wait(1).to({graphics:mask_graphics_110,x:429.3,y:126.3}).wait(1).to({graphics:mask_graphics_111,x:429.4,y:126.3}).wait(1).to({graphics:mask_graphics_112,x:429.6,y:126.3}).wait(1).to({graphics:mask_graphics_113,x:429.7,y:126.3}).wait(1).to({graphics:mask_graphics_114,x:429.8,y:126.3}).wait(1).to({graphics:mask_graphics_115,x:429.9,y:126.3}).wait(1).to({graphics:mask_graphics_116,x:430,y:126.2}).wait(1).to({graphics:mask_graphics_117,x:430.2,y:126.2}).wait(1).to({graphics:mask_graphics_118,x:430.6,y:126.2}).wait(1).to({graphics:mask_graphics_119,x:431.1,y:126.2}).wait(1).to({graphics:mask_graphics_120,x:431.8,y:126.2}).wait(1).to({graphics:mask_graphics_121,x:432.6,y:126.2}).wait(1).to({graphics:mask_graphics_122,x:433.5,y:126.1}).wait(1).to({graphics:mask_graphics_123,x:434.6,y:126.1}).wait(1).to({graphics:mask_graphics_124,x:435.9,y:126.1}).wait(1).to({graphics:mask_graphics_125,x:437.3,y:126}).wait(1).to({graphics:mask_graphics_126,x:438.8,y:126}).wait(1).to({graphics:mask_graphics_127,x:440.5,y:125.9}).wait(1).to({graphics:mask_graphics_128,x:442.4,y:125.9}).wait(1).to({graphics:mask_graphics_129,x:444.3,y:125.8}).wait(1).to({graphics:mask_graphics_130,x:446.5,y:125.8}).wait(1).to({graphics:mask_graphics_131,x:448.7,y:125.7}).wait(1).to({graphics:mask_graphics_132,x:451.2,y:125.6}).wait(1).to({graphics:mask_graphics_133,x:453.7,y:125.5}).wait(1).to({graphics:mask_graphics_134,x:456.5,y:125.5}).wait(1).to({graphics:mask_graphics_135,x:459.3,y:125.4}).wait(1).to({graphics:mask_graphics_136,x:462.3,y:125.3}).wait(1).to({graphics:mask_graphics_137,x:465.5,y:125.2}).wait(1).to({graphics:mask_graphics_138,x:468.8,y:125.1}).wait(1).to({graphics:mask_graphics_139,x:472.3,y:125}).wait(1).to({graphics:mask_graphics_140,x:475.9,y:124.9}).wait(1).to({graphics:mask_graphics_141,x:479.6,y:124.8}).wait(1).to({graphics:mask_graphics_142,x:483.4,y:124.7}).wait(1).to({graphics:mask_graphics_143,x:487.5,y:124.3}).wait(1).to({graphics:mask_graphics_144,x:491.6,y:123.9}).wait(1).to({graphics:mask_graphics_145,x:495.7,y:123.6}).wait(1).to({graphics:mask_graphics_146,x:499.8,y:123.2}).wait(1).to({graphics:mask_graphics_147,x:503.9,y:122.8}).wait(1).to({graphics:mask_graphics_148,x:508,y:122.5}).wait(1).to({graphics:mask_graphics_149,x:512.1,y:122.1}).wait(1).to({graphics:mask_graphics_150,x:516.2,y:121.7}).wait(1).to({graphics:mask_graphics_151,x:520.3,y:121.4}).wait(1).to({graphics:mask_graphics_152,x:524.4,y:121}).wait(1).to({graphics:mask_graphics_153,x:528.4,y:120.6}).wait(1).to({graphics:mask_graphics_154,x:532.5,y:120.3}).wait(1).to({graphics:null,x:0,y:0}).wait(56));
+	this.timeline.addTween(cjs.Tween.get(mask).to({graphics:null,x:0,y:0}).wait(31).to({graphics:mask_graphics_31,x:238.6,y:64.2}).wait(1).to({graphics:mask_graphics_32,x:247.8,y:67.4}).wait(1).to({graphics:mask_graphics_33,x:256.9,y:70.7}).wait(1).to({graphics:mask_graphics_34,x:266.1,y:73.9}).wait(1).to({graphics:mask_graphics_35,x:275.2,y:77.1}).wait(1).to({graphics:mask_graphics_36,x:284.4,y:80.4}).wait(1).to({graphics:mask_graphics_37,x:293.5,y:83.6}).wait(1).to({graphics:mask_graphics_38,x:302.7,y:86.9}).wait(1).to({graphics:mask_graphics_39,x:311.8,y:90.1}).wait(1).to({graphics:mask_graphics_40,x:321,y:93.4}).wait(1).to({graphics:mask_graphics_41,x:330.1,y:96.6}).wait(1).to({graphics:mask_graphics_42,x:339.3,y:99.8}).wait(1).to({graphics:mask_graphics_43,x:348.4,y:103.1}).wait(1).to({graphics:mask_graphics_44,x:357.6,y:106.3}).wait(1).to({graphics:mask_graphics_45,x:366.7,y:109.6}).wait(1).to({graphics:mask_graphics_46,x:375.9,y:112.8}).wait(1).to({graphics:mask_graphics_47,x:385,y:116}).wait(1).to({graphics:mask_graphics_48,x:394.2,y:119.3}).wait(1).to({graphics:mask_graphics_49,x:403.3,y:122.5}).wait(1).to({graphics:mask_graphics_50,x:412.5,y:125.8}).wait(1).to({graphics:mask_graphics_51,x:422,y:126.5}).wait(1).to({graphics:mask_graphics_52,x:422.1,y:126.5}).wait(1).to({graphics:mask_graphics_53,x:422.2,y:126.5}).wait(1).to({graphics:mask_graphics_54,x:422.4,y:126.5}).wait(1).to({graphics:mask_graphics_55,x:422.5,y:126.5}).wait(1).to({graphics:mask_graphics_56,x:422.6,y:126.5}).wait(1).to({graphics:mask_graphics_57,x:422.7,y:126.5}).wait(1).to({graphics:mask_graphics_58,x:422.9,y:126.5}).wait(1).to({graphics:mask_graphics_59,x:423,y:126.5}).wait(1).to({graphics:mask_graphics_60,x:423.1,y:126.5}).wait(1).to({graphics:mask_graphics_61,x:423.2,y:126.5}).wait(1).to({graphics:mask_graphics_62,x:423.4,y:126.5}).wait(1).to({graphics:mask_graphics_63,x:423.5,y:126.5}).wait(1).to({graphics:mask_graphics_64,x:423.6,y:126.4}).wait(1).to({graphics:mask_graphics_65,x:423.7,y:126.4}).wait(1).to({graphics:mask_graphics_66,x:423.9,y:126.4}).wait(1).to({graphics:mask_graphics_67,x:424,y:126.4}).wait(1).to({graphics:mask_graphics_68,x:424.1,y:126.4}).wait(1).to({graphics:mask_graphics_69,x:424.2,y:126.4}).wait(1).to({graphics:mask_graphics_70,x:424.4,y:126.4}).wait(1).to({graphics:mask_graphics_71,x:424.5,y:126.4}).wait(1).to({graphics:mask_graphics_72,x:424.6,y:126.4}).wait(1).to({graphics:mask_graphics_73,x:424.7,y:126.4}).wait(1).to({graphics:mask_graphics_74,x:424.9,y:126.4}).wait(1).to({graphics:mask_graphics_75,x:425,y:126.4}).wait(1).to({graphics:mask_graphics_76,x:425.1,y:126.4}).wait(1).to({graphics:mask_graphics_77,x:425.2,y:126.4}).wait(1).to({graphics:mask_graphics_78,x:425.4,y:126.4}).wait(1).to({graphics:mask_graphics_79,x:425.5,y:126.4}).wait(1).to({graphics:mask_graphics_80,x:425.6,y:126.4}).wait(1).to({graphics:mask_graphics_81,x:425.7,y:126.4}).wait(1).to({graphics:mask_graphics_82,x:425.8,y:126.4}).wait(1).to({graphics:mask_graphics_83,x:426,y:126.4}).wait(1).to({graphics:mask_graphics_84,x:426.1,y:126.4}).wait(1).to({graphics:mask_graphics_85,x:426.2,y:126.4}).wait(1).to({graphics:mask_graphics_86,x:426.3,y:126.4}).wait(1).to({graphics:mask_graphics_87,x:426.5,y:126.4}).wait(1).to({graphics:mask_graphics_88,x:426.6,y:126.4}).wait(1).to({graphics:mask_graphics_89,x:426.7,y:126.4}).wait(1).to({graphics:mask_graphics_90,x:426.8,y:126.3}).wait(1).to({graphics:mask_graphics_91,x:427,y:126.3}).wait(1).to({graphics:mask_graphics_92,x:427.1,y:126.3}).wait(1).to({graphics:mask_graphics_93,x:427.2,y:126.3}).wait(1).to({graphics:mask_graphics_94,x:427.3,y:126.3}).wait(1).to({graphics:mask_graphics_95,x:427.5,y:126.3}).wait(1).to({graphics:mask_graphics_96,x:427.6,y:126.3}).wait(1).to({graphics:mask_graphics_97,x:427.7,y:126.3}).wait(1).to({graphics:mask_graphics_98,x:427.8,y:126.3}).wait(1).to({graphics:mask_graphics_99,x:428,y:126.3}).wait(1).to({graphics:mask_graphics_100,x:428.1,y:126.3}).wait(1).to({graphics:mask_graphics_101,x:428.2,y:126.3}).wait(1).to({graphics:mask_graphics_102,x:428.3,y:126.3}).wait(1).to({graphics:mask_graphics_103,x:428.5,y:126.3}).wait(1).to({graphics:mask_graphics_104,x:428.6,y:126.3}).wait(1).to({graphics:mask_graphics_105,x:428.7,y:126.3}).wait(1).to({graphics:mask_graphics_106,x:428.8,y:126.3}).wait(1).to({graphics:mask_graphics_107,x:428.9,y:126.3}).wait(1).to({graphics:mask_graphics_108,x:429.1,y:126.3}).wait(1).to({graphics:mask_graphics_109,x:429.2,y:126.3}).wait(1).to({graphics:mask_graphics_110,x:429.3,y:126.3}).wait(1).to({graphics:mask_graphics_111,x:429.4,y:126.3}).wait(1).to({graphics:mask_graphics_112,x:429.6,y:126.3}).wait(1).to({graphics:mask_graphics_113,x:429.7,y:126.3}).wait(1).to({graphics:mask_graphics_114,x:429.8,y:126.3}).wait(1).to({graphics:mask_graphics_115,x:429.9,y:126.3}).wait(1).to({graphics:mask_graphics_116,x:430,y:126.2}).wait(1).to({graphics:mask_graphics_117,x:430.2,y:126.2}).wait(1).to({graphics:mask_graphics_118,x:430.6,y:126.2}).wait(1).to({graphics:mask_graphics_119,x:431.1,y:126.2}).wait(1).to({graphics:mask_graphics_120,x:431.8,y:126.2}).wait(1).to({graphics:mask_graphics_121,x:432.6,y:126.2}).wait(1).to({graphics:mask_graphics_122,x:433.5,y:126.1}).wait(1).to({graphics:mask_graphics_123,x:434.6,y:126.1}).wait(1).to({graphics:mask_graphics_124,x:435.9,y:126.1}).wait(1).to({graphics:mask_graphics_125,x:437.3,y:126}).wait(1).to({graphics:mask_graphics_126,x:438.8,y:126}).wait(1).to({graphics:mask_graphics_127,x:440.5,y:125.9}).wait(1).to({graphics:mask_graphics_128,x:442.4,y:125.9}).wait(1).to({graphics:mask_graphics_129,x:444.3,y:125.8}).wait(1).to({graphics:mask_graphics_130,x:446.5,y:125.8}).wait(1).to({graphics:mask_graphics_131,x:448.7,y:125.7}).wait(1).to({graphics:mask_graphics_132,x:451.2,y:125.6}).wait(1).to({graphics:mask_graphics_133,x:453.7,y:125.5}).wait(1).to({graphics:mask_graphics_134,x:456.5,y:125.5}).wait(1).to({graphics:mask_graphics_135,x:459.3,y:125.4}).wait(1).to({graphics:mask_graphics_136,x:462.3,y:125.3}).wait(1).to({graphics:mask_graphics_137,x:465.5,y:125.2}).wait(1).to({graphics:mask_graphics_138,x:468.8,y:125.1}).wait(1).to({graphics:mask_graphics_139,x:472.3,y:125}).wait(1).to({graphics:mask_graphics_140,x:475.9,y:124.9}).wait(1).to({graphics:mask_graphics_141,x:479.6,y:124.8}).wait(1).to({graphics:mask_graphics_142,x:483.4,y:124.7}).wait(1).to({graphics:mask_graphics_143,x:487.5,y:124.3}).wait(1).to({graphics:mask_graphics_144,x:491.6,y:123.9}).wait(1).to({graphics:mask_graphics_145,x:495.7,y:123.6}).wait(1).to({graphics:mask_graphics_146,x:499.8,y:123.2}).wait(1).to({graphics:mask_graphics_147,x:503.9,y:122.8}).wait(1).to({graphics:mask_graphics_148,x:508,y:122.5}).wait(1).to({graphics:mask_graphics_149,x:512.1,y:122.1}).wait(1).to({graphics:mask_graphics_150,x:516.2,y:121.7}).wait(1).to({graphics:mask_graphics_151,x:520.3,y:121.4}).wait(1).to({graphics:mask_graphics_152,x:524.4,y:121}).wait(1).to({graphics:mask_graphics_153,x:528.4,y:120.6}).wait(1).to({graphics:mask_graphics_154,x:532.5,y:120.3}).wait(1).to({graphics:null,x:0,y:0}).wait(56));
 
 	// Layer 5
 	this.instance_7 = new lib.echo3_mc();
 	this.instance_7.parent = this;
-	this.instance_7.setTransform(684.5,129.6,0.069,0.069,0,0,0,156.7,18.9);
+	this.instance_7.setTransform(466.5,122.6,0.069,0.069,0,0,0,156.7,18.9);
 	this.instance_7._off = true;
 
 	var maskedShapeInstanceList = [this.instance_7];
@@ -1322,7 +1322,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 4
 	this.instance_8 = new lib.echo1_mc();
 	this.instance_8.parent = this;
-	this.instance_8.setTransform(691,126.3,0.069,0.069,0,0,0,63.8,131.9);
+	this.instance_8.setTransform(473,119.3,0.069,0.069,0,0,0,63.8,131.9);
 	this.instance_8._off = true;
 
 	var maskedShapeInstanceList = [this.instance_8];
@@ -1336,7 +1336,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 3
 	this.instance_9 = new lib.echo2_mc();
 	this.instance_9.parent = this;
-	this.instance_9.setTransform(680.1,127.5,0.069,0.069,0,0,0,97.9,113.9);
+	this.instance_9.setTransform(462.1,120.5,0.069,0.069,0,0,0,97.9,113.9);
 	this.instance_9._off = true;
 
 	var maskedShapeInstanceList = [this.instance_9];
@@ -1779,7 +1779,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// game_BG
 	this.instance_10 = new lib.Tween4("synched",0);
 	this.instance_10.parent = this;
-	this.instance_10.setTransform(684.3,126.3,0.069,0.069,0,0,0,0.8,0);
+	this.instance_10.setTransform(466.3,119.3,0.069,0.069,0,0,0,0.8,0);
 	this.instance_10._off = true;
 
 	this.instance_11 = new lib.Tween5("synched",0);
@@ -1799,9 +1799,9 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 10 (mask)
 	var mask_1 = new cjs.Shape();
 	mask_1._off = true;
-	var mask_1_graphics_44 = new cjs.Graphics().p("EgkvAI/IAAmtMBLmAAAIAAGtg");
+	var mask_1_graphics_44 = new cjs.Graphics().p("EglyADXIAAmtMBLlAAAIAAGtg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_1).to({graphics:null,x:0,y:0}).wait(44).to({graphics:mask_1_graphics_44,x:248.7,y:57.5}).wait(70).to({graphics:null,x:0,y:0}).wait(97));
+	this.timeline.addTween(cjs.Tween.get(mask_1).to({graphics:null,x:0,y:0}).wait(44).to({graphics:mask_1_graphics_44,x:255.5,y:93.6}).wait(70).to({graphics:null,x:0,y:0}).wait(97));
 
 	// Layer 11
 	this.instance_12 = new lib.text1_mc("synched",0);
@@ -1826,9 +1826,9 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 8 (mask)
 	var mask_2 = new cjs.Shape();
 	mask_2._off = true;
-	var mask_2_graphics_44 = new cjs.Graphics().p("EgkvAMUIAAmtMBLmAAAIAAGtg");
+	var mask_2_graphics_44 = new cjs.Graphics().p("EglyADXIAAmsMBLlAAAIAAGsg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_2).to({graphics:null,x:0,y:0}).wait(44).to({graphics:mask_2_graphics_44,x:248.7,y:78.8}).wait(70).to({graphics:null,x:0,y:0}).wait(97));
+	this.timeline.addTween(cjs.Tween.get(mask_2).to({graphics:null,x:0,y:0}).wait(44).to({graphics:mask_2_graphics_44,x:255.5,y:136.2}).wait(70).to({graphics:null,x:0,y:0}).wait(97));
 
 	// Layer 12
 	this.instance_14 = new lib.text2_mc("synched",0);
@@ -1853,9 +1853,9 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 6 (mask)
 	var mask_3 = new cjs.Shape();
 	mask_3._off = true;
-	var mask_3_graphics_44 = new cjs.Graphics().p("EgkKAOgIAAmuMBLmAAAIAAGug");
+	var mask_3_graphics_44 = new cjs.Graphics().p("EglyADXIAAmtMBLlAAAIAAGtg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:null,x:0,y:0}).wait(44).to({graphics:mask_3_graphics_44,x:252.4,y:92.8}).wait(70).to({graphics:null,x:0,y:0}).wait(97));
+	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:null,x:0,y:0}).wait(44).to({graphics:mask_3_graphics_44,x:262.9,y:164.1}).wait(70).to({graphics:null,x:0,y:0}).wait(97));
 
 	// Layer 13
 	this.instance_16 = new lib.text3_mc("synched",0);
@@ -1992,12 +1992,12 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// bg
 	this.instance_26 = new lib.bg();
 	this.instance_26.parent = this;
-	this.instance_26.setTransform(76.4,125,1.022,1,0,0,0,150,125);
+	this.instance_26.setTransform(256.4,125,1.022,1,0,0,0,150,125);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_26).to({x:256.4},8).wait(134).to({scaleX:1.06,x:179.8},17).wait(52));
+	this.timeline.addTween(cjs.Tween.get(this.instance_26).wait(142).to({scaleX:1.06,x:179.8},17).wait(52));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(275.7,125.5,1297.4,250);
+p.nominalBounds = new cjs.Rectangle(444.1,123,1309.4,252.3);
 // library properties:
 lib.properties = {
 	id: 'B85580C26B5E4A549B43F193819D955D',
@@ -2007,18 +2007,18 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Bitmap42.jpg?1502582057097", id:"Bitmap42"},
-		{src:"images/echo1.jpg?1502582057097", id:"echo1"},
-		{src:"images/echo2.jpg?1502582057097", id:"echo2"},
-		{src:"images/echo3.jpg?1502582057097", id:"echo3"},
-		{src:"images/game_1_unspoken.jpg?1502582057097", id:"game_1_unspoken"},
-		{src:"images/game_2_loneecho.jpg?1502582057097", id:"game_2_loneecho"},
-		{src:"images/game_3_startrek.jpg?1502582057097", id:"game_3_startrek"},
-		{src:"images/game_4_superhot.jpg?1502582057097", id:"game_4_superhot"},
-		{src:"images/game_5_roborecall.jpg?1502582057097", id:"game_5_roborecall"},
-		{src:"images/game_6_rickmorty.jpg?1502582057097", id:"game_6_rickmorty"},
-		{src:"images/game_7_wilson.jpg?1502582057097", id:"game_7_wilson"},
-		{src:"images/hardware.png?1502582057097", id:"hardware"}
+		{src:"images/Bitmap42.jpg?1502640165962", id:"Bitmap42"},
+		{src:"images/echo1.jpg?1502640165962", id:"echo1"},
+		{src:"images/echo2.jpg?1502640165962", id:"echo2"},
+		{src:"images/echo3.jpg?1502640165962", id:"echo3"},
+		{src:"images/game_1_unspoken.jpg?1502640165962", id:"game_1_unspoken"},
+		{src:"images/game_2_loneecho.jpg?1502640165962", id:"game_2_loneecho"},
+		{src:"images/game_3_startrek.jpg?1502640165962", id:"game_3_startrek"},
+		{src:"images/game_4_superhot.jpg?1502640165962", id:"game_4_superhot"},
+		{src:"images/game_5_roborecall.jpg?1502640165962", id:"game_5_roborecall"},
+		{src:"images/game_6_rickmorty.jpg?1502640165962", id:"game_6_rickmorty"},
+		{src:"images/game_7_wilson.jpg?1502640165962", id:"game_7_wilson"},
+		{src:"images/hardware.png?1502640165962", id:"hardware"}
 	],
 	preloads: []
 };

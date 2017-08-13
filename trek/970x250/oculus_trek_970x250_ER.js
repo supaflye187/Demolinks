@@ -1036,11 +1036,11 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// 1
 	this.instance = new lib.Bitmap42();
 	this.instance.parent = this;
-	this.instance.setTransform(-129.6,0.5);
+	this.instance.setTransform(-142,-2,1.02,1.02);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-}).prototype = getMCSymbolPrototype(lib.bg, new cjs.Rectangle(-129.6,0.5,1270,250), null);
+}).prototype = getMCSymbolPrototype(lib.bg, new cjs.Rectangle(-142,-2,1295.5,255), null);
 
 
 (lib.newPrice = function(mode,startPosition,loop) {
@@ -1846,12 +1846,12 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// bg
 	this.instance_24 = new lib.bg();
 	this.instance_24.parent = this;
-	this.instance_24.setTransform(76.4,125,1.022,1,0,0,0,150,125);
+	this.instance_24.setTransform(256.4,125,1.022,1,0,0,0,150,125);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_24).to({x:256.4},8).wait(129).to({scaleX:1.06,x:179.8},17).wait(56));
+	this.timeline.addTween(cjs.Tween.get(this.instance_24).wait(210));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(275.7,125.5,1297.4,250);
+p.nominalBounds = new cjs.Rectangle(443.1,123,1323.4,255);
 // library properties:
 lib.properties = {
 	id: 'DC775C8791F14132A29885F76D2AD9D8',

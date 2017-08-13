@@ -886,11 +886,11 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// 1
 	this.instance = new lib.Bitmap34();
 	this.instance.parent = this;
-	this.instance.setTransform(-72,0);
+	this.instance.setTransform(-38,0,0.847,1);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
-}).prototype = getMCSymbolPrototype(lib.bg, new cjs.Rectangle(-72,0,380,50), null);
+}).prototype = getMCSymbolPrototype(lib.bg, new cjs.Rectangle(-38,0,322.1,50), null);
 
 
 (lib.newPrice = function(mode,startPosition,loop) {
@@ -1565,7 +1565,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.timeline.addTween(cjs.Tween.get(this.instance_16).wait(210));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(124.8,25,380,50);
+p.nominalBounds = new cjs.Rectangle(158.8,25,322.1,50);
 // library properties:
 lib.properties = {
 	id: '6FEEF5B8C11D47359487AB28B63508D1',

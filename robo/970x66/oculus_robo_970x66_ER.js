@@ -1546,12 +1546,12 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// bg
 	this.instance_25 = new lib.bg();
 	this.instance_25.parent = this;
-	this.instance_25.setTransform(68,140,1.033,1,0,0,0,150,125);
+	this.instance_25.setTransform(320,140,1.033,1,0,0,0,150,125);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_25).to({x:320},8).wait(149).to({x:291},12).wait(45));
+	this.timeline.addTween(cjs.Tween.get(this.instance_25).wait(214));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(229.5,33,1311.9,66);
+p.nominalBounds = new cjs.Rectangle(481.5,33,1311.9,66);
 // library properties:
 lib.properties = {
 	id: '27F8F6CD72C0464595B4E63D0FFD11FF',

@@ -1145,7 +1145,7 @@ p.nominalBounds = new cjs.Rectangle(67.5,-20.7,120.7,32.1);
 
 
 // stage content:
-(lib.oculus_echo_300x50_ER2 = function(mode,startPosition,loop) {
+(lib.oculus_echo_300x50_ER = function(mode,startPosition,loop) {
 if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// mask (mask)
@@ -1677,12 +1677,12 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// bg
 	this.instance_20 = new lib.bg();
 	this.instance_20.parent = this;
-	this.instance_20.setTransform(186.8,125,1,1,0,0,0,150,125);
+	this.instance_20.setTransform(176,125,0.802,1,0,0,0,150.2,125);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_20).wait(211));
+	this.timeline.addTween(cjs.Tween.get(this.instance_20).wait(142).to({regX:150,scaleX:1,x:186.8},0).wait(69));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(114.8,25,380,50);
+p.nominalBounds = new cjs.Rectangle(147.9,25,304.7,50);
 // library properties:
 lib.properties = {
 	id: '10D470DC8F804C67AEEAF258F033806A',
