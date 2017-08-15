@@ -1225,7 +1225,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		maskedShapeInstanceList[shapedInstanceItr].mask = mask_3;
 	}
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({scaleX:2.32,scaleY:2.32,x:362.4,y:766.4},48,cjs.Ease.get(-1)).to({_off:true},1).wait(165));
+	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({scaleX:2.32,scaleY:2.32,x:362.4,y:766.4},37,cjs.Ease.get(-1)).to({_off:true},1).wait(176));
 
 	// unspoken
 	this.instance_7 = new lib.game_unspoken();
@@ -1239,7 +1239,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		maskedShapeInstanceList[shapedInstanceItr].mask = mask_3;
 	}
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(3).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-195.2,y:583.2},48,cjs.Ease.get(-1)).to({_off:true},1).wait(162));
+	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(3).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-195.2,y:583.2},37,cjs.Ease.get(-1)).to({_off:true},1).wait(173));
 
 	// lone echo
 	this.instance_8 = new lib.game_loneecho();
@@ -1253,7 +1253,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		maskedShapeInstanceList[shapedInstanceItr].mask = mask_3;
 	}
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(6).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-188,y:-135.2},48,cjs.Ease.get(-1)).to({_off:true},1).wait(159));
+	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(6).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-188,y:-135.2},37,cjs.Ease.get(-1)).to({_off:true},1).wait(170));
 
 	// roborecall
 	this.instance_9 = new lib.game_roborecall();
@@ -1261,7 +1261,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.instance_9.setTransform(154,300.9,0.067,0.067,0,0,0,65.5,65.5);
 	this.instance_9._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(9).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:464.4,y:-51.2},48,cjs.Ease.get(-1)).to({_off:true},1).wait(156));
+	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(9).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:464.4,y:-51.2},37,cjs.Ease.get(-1)).to({_off:true},1).wait(167));
 
 	// superhot
 	this.instance_10 = new lib.game_superhot();
@@ -1269,7 +1269,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.instance_10.setTransform(153.9,301.3,0.067,0.067,0,0,0,65.5,65.5);
 	this.instance_10._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_10).wait(12).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:457.6,y:360},48,cjs.Ease.get(-1)).to({_off:true},1).wait(153));
+	this.timeline.addTween(cjs.Tween.get(this.instance_10).wait(12).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:457.6,y:360},37,cjs.Ease.get(-1)).to({_off:true},1).wait(164));
 
 	// rick morty
 	this.instance_11 = new lib.game_rickmorty();
@@ -1277,7 +1277,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.instance_11.setTransform(153.8,301.4,0.067,0.067,0,0,0,65.5,65.5);
 	this.instance_11._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_11).wait(15).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-167.2,y:346.4},48,cjs.Ease.get(-1)).to({_off:true},1).wait(150));
+	this.timeline.addTween(cjs.Tween.get(this.instance_11).wait(15).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-167.2,y:346.4},37,cjs.Ease.get(-1)).to({_off:true},1).wait(161));
 
 	// wilsons
 	this.instance_12 = new lib.game_wilsons();
@@ -1285,7 +1285,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.instance_12.setTransform(153.6,301.5,0.067,0.067,0,0,0,65.5,65.5);
 	this.instance_12._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_12).wait(18).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-136.8,y:-161.6},48,cjs.Ease.get(-1)).to({_off:true},1).wait(147));
+	this.timeline.addTween(cjs.Tween.get(this.instance_12).wait(18).to({_off:false},0).to({scaleX:2.32,scaleY:2.32,x:-136.8,y:-161.6},37,cjs.Ease.get(-1)).to({_off:true},1).wait(158));
 
 	// MASK (mask)
 	var mask_4 = new cjs.Shape();
