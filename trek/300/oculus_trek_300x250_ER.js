@@ -1064,7 +1064,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 
 (lib.newPrice = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
 	this.instance = new lib.legal_limitedtime();
@@ -1435,7 +1435,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.cta.setTransform(77.5,228.4,1,1,0,0,0,55.5,22.5);
 	this.cta._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.cta).wait(142).to({_off:false},0).wait(68));
+	this.timeline.addTween(cjs.Tween.get(this.cta).wait(137).to({_off:false},0).wait(73));
 
 	// legal
 	this.instance_16 = new lib.legal_withpurchase();
