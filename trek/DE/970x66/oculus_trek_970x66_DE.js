@@ -1688,9 +1688,9 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 8 (mask)
 	var mask = new cjs.Shape();
 	mask._off = true;
-	var mask_graphics_41 = new cjs.Graphics().p("A+IBgIAAi/MA8RAAAIAAC/g");
+	var mask_graphics_41 = new cjs.Graphics().p("EgibABgIAAi/MBE3AAAIAAC/g");
 
-	this.timeline.addTween(cjs.Tween.get(mask).to({graphics:null,x:0,y:0}).wait(41).to({graphics:mask_graphics_41,x:319.5,y:28}).wait(68).to({graphics:null,x:0,y:0}).wait(101));
+	this.timeline.addTween(cjs.Tween.get(mask).to({graphics:null,x:0,y:0}).wait(41).to({graphics:mask_graphics_41,x:292,y:28}).wait(68).to({graphics:null,x:0,y:0}).wait(101));
 
 	// Layer 12
 	this.instance_11 = new lib.text2_mc("synched",0);
