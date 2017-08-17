@@ -1080,8 +1080,8 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.shape_1.setTransform(92.9,31);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.f("#000000").s().p("AANCyIAAhCIidAAIAAhEICejdIBPAAIAADdIA0AAIgCBEIgyAAIAABCgAg8AsIBJAAIAAhmIgBAAg");
-	this.shape_2.setTransform(66.3,31.3);
+	this.shape_2.graphics.f("#000000").s().p("AANCyIAAhCIieAAIAAhEICfjdIBPAAIAADdIA1AAIgDBEIgyAAIAABCgAg8AsIBJAAIAAhmIgBAAg");
+	this.shape_2.setTransform(66.1,31.3);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#000000").s().p("AhSCyQgXgDgagHIAFhOQARAGAaAFQAdAFAYAAIAegCQAOgDAKgGQALgGAHgJQAGgJAAgNQAAgQgJgLQgHgJgPgHQgMgFgQgDIgdgCQgVAAgWAEQgUADgPAFIARjGIDYAAIgEBJIiPAAIgGA4QANgCAYAAQAhAAAaAIQAZAIAQAOQARAOAIAUQAIAUAAAbQAAARgDAPQgEAOgHANQgGALgJAKQgJAKgMAHQggARgTAFQgcAGggAAQgaAAgbgEg");
