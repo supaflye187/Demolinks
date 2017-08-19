@@ -2107,9 +2107,9 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// legal (mask)
 	var mask_5 = new cjs.Shape();
 	mask_5._off = true;
-	var mask_5_graphics_157 = new cjs.Graphics().p("AuNBIIAAiPIcaAAIAACPg");
+	var mask_5_graphics_157 = new cjs.Graphics().p("AwnBIIAAiPMAhPAAAIAACPg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_5).to({graphics:null,x:0,y:0}).wait(157).to({graphics:mask_5_graphics_157,x:155.9,y:481.1}).wait(49));
+	this.timeline.addTween(cjs.Tween.get(mask_5).to({graphics:null,x:0,y:0}).wait(157).to({graphics:mask_5_graphics_157,x:155.9,y:487.6}).wait(49));
 
 	// legal
 	this.instance_21 = new lib.legal_withpurchase();
