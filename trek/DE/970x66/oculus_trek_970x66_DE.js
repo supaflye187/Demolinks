@@ -1097,7 +1097,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	mask._off = true;
 	var mask_graphics_52 = new cjs.Graphics().p("A0YB0IAAjnMAoxAAAIAADng");
 
-	this.timeline.addTween(cjs.Tween.get(mask).to({graphics:null,x:0,y:0}).wait(52).to({graphics:mask_graphics_52,x:213.5,y:16.5}).wait(70).to({graphics:null,x:0,y:0}).wait(46));
+	this.timeline.addTween(cjs.Tween.get(mask).to({graphics:null,x:0,y:0}).wait(52).to({graphics:mask_graphics_52,x:226.5,y:16.5}).wait(70).to({graphics:null,x:0,y:0}).wait(46));
 
 	// Layer 11
 	this.instance_10 = new lib.Tween7("synched",0);
@@ -1118,7 +1118,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	mask_1._off = true;
 	var mask_1_graphics_52 = new cjs.Graphics().p("A0YB0IAAjnMAoxAAAIAADng");
 
-	this.timeline.addTween(cjs.Tween.get(mask_1).to({graphics:null,x:0,y:0}).wait(52).to({graphics:mask_1_graphics_52,x:213.5,y:39.5}).wait(70).to({graphics:null,x:0,y:0}).wait(46));
+	this.timeline.addTween(cjs.Tween.get(mask_1).to({graphics:null,x:0,y:0}).wait(52).to({graphics:mask_1_graphics_52,x:225.5,y:39.5}).wait(70).to({graphics:null,x:0,y:0}).wait(46));
 
 	// Layer 12
 	this.instance_11 = new lib.text2_mc_1("synched",0);
