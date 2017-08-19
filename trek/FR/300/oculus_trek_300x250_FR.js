@@ -1389,7 +1389,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// mask (mask)
 	var mask_2 = new cjs.Shape();
 	mask_2._off = true;
-	var mask_2_graphics_146 = new cjs.Graphics().p("AphEiIAApDITDAAIAAJDg");
+	var mask_2_graphics_146 = new cjs.Graphics().p("ArPEiIAApDIWfAAIAAJDg");
 
 	this.timeline.addTween(cjs.Tween.get(mask_2).to({graphics:null,x:0,y:0}).wait(146).to({graphics:mask_2_graphics_146,x:77.2,y:135.9}).wait(29));
 
