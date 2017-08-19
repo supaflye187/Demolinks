@@ -2098,18 +2098,17 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// cta btn
 	this.cta = new lib.legal();
 	this.cta.parent = this;
-	this.cta.setTransform(154.6,547,1.014,1.014,0,0,0,128.8,-4.7);
-	this.cta.alpha = 0;
+	this.cta.setTransform(156.6,541,1.014,1.014,0,0,0,128.8,-4.7);
 	this.cta._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.cta).wait(148).to({_off:false},0).to({x:156.6,y:541,alpha:1},4).wait(54));
+	this.timeline.addTween(cjs.Tween.get(this.cta).wait(146).to({_off:false},0).wait(60));
 
 	// legal (mask)
 	var mask_5 = new cjs.Shape();
 	mask_5._off = true;
-	var mask_5_graphics_157 = new cjs.Graphics().p("AwnBIIAAiPMAhPAAAIAACPg");
+	var mask_5_graphics_146 = new cjs.Graphics().p("AwnBIIAAiPMAhPAAAIAACPg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_5).to({graphics:null,x:0,y:0}).wait(157).to({graphics:mask_5_graphics_157,x:155.9,y:487.6}).wait(49));
+	this.timeline.addTween(cjs.Tween.get(mask_5).to({graphics:null,x:0,y:0}).wait(146).to({graphics:mask_5_graphics_146,x:155.9,y:487.6}).wait(60));
 
 	// legal
 	this.instance_21 = new lib.legal_withpurchase();
