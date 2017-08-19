@@ -217,8 +217,8 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	// Layer 1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f("#000000").s().p("AACAWIAGgVIAJgWIANABIgHAUIgFAWgAgdAWIAHgVIAJgWIAMABIgGAUIgFAWg");
-	this.shape.setTransform(-99.1,-4.5);
+	this.shape.graphics.f("#000000").s().p("AACAWIAGgWIAJgVIANABIgHAUIgFAWgAgdAWIAHgWIAJgVIAMABIgGAUIgFAWg");
+	this.shape.setTransform(-100.1,7.5);
 
 	this.shape_1 = new cjs.Shape();
 	this.shape_1.graphics.f("#000000").s().p("AAAA1QgEgCgCgFQgCgFgBgGIAAgQIAAgjIgRAAIAAgMIARAAIAAgZIAMAAIAAAZIAXAAIAAAMIgXAAIAAAlQABAMACAEQAAADADABIAGABQAGAAAGgCIAAANQgIACgIAAQgHAAgEgCg");
