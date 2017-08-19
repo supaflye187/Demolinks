@@ -1579,7 +1579,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	mask_4._off = true;
 	var mask_4_graphics_154 = new cjs.Graphics().p("AqOFSIAAqjIUdAAIAAKjg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_4).to({graphics:null,x:0,y:0}).wait(154).to({graphics:mask_4_graphics_154,x:493.2,y:17.7}).wait(34));
+	this.timeline.addTween(cjs.Tween.get(mask_4).to({graphics:null,x:0,y:0}).wait(154).to({graphics:mask_4_graphics_154,x:520.2,y:17.7}).wait(34));
 
 	// price
 	this.instance_22 = new lib.newPrice();

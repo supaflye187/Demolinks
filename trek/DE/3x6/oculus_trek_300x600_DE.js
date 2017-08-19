@@ -1543,9 +1543,9 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	// Layer 9 (mask)
 	var mask_3 = new cjs.Shape();
 	mask_3._off = true;
-	var mask_3_graphics_151 = new cjs.Graphics().p("AuNBIIAAiPIcaAAIAACPg");
+	var mask_3_graphics_151 = new cjs.Graphics().p("AwnBVIAAipMAhPAAAIAACpg");
 
-	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:null,x:0,y:0}).wait(151).to({graphics:mask_3_graphics_151,x:155.9,y:481.1}).wait(53));
+	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:null,x:0,y:0}).wait(151).to({graphics:mask_3_graphics_151,x:155.9,y:486.9}).wait(53));
 
 	// legal
 	this.instance_15 = new lib.legal_withpurchase();
